@@ -21,4 +21,5 @@ restart-occs:
         occs_password: $OCCS_PASSWORD
         rest_server_url: $REST_SERVER_URL
         function: $FUNCTION
-        deployment_name: $DEPLOYMENT_NAME 
+        deployment_name: $DEPLOYMENT_NAME
+        docker_image_name: $DOCKER_IMAGE_NAME
