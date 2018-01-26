@@ -23,5 +23,3 @@ restart-occs:
         function: $FUNCTION
         docker_image_name: $DOCKER_IMAGE_NAME
         deployment_name: $DEPLOYMENT_NAME
-        service_id: $SERVICE_ID
-        
